@@ -2,7 +2,7 @@
 stage('demo') {
     echo "Hello"
     hello'Nag'
-    script {
+    script{
         calculator.add(6,6)
     }
 }
